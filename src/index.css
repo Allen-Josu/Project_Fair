@@ -1,0 +1,8 @@
+*{
+  font-family: "Tauri", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; /*to place evrything inside the available soace*/
+  color: white;
+ 
+}
